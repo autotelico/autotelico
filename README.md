@@ -10,6 +10,22 @@
 ## **Tecnologias**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux)](https://skillicons.dev)
+
+<div align="center">
+  
+## **Atividade**
+  
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=autotelico&locale=pt_BR)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=autotelico&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=autotelico&theme=default)
+
+</div>
+
+
 <!--
 **autotelico/autotelico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

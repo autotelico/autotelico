@@ -1,10 +1,13 @@
-### Olá! ✨
-<h1>Sobre mim</h1>
-🧑🏻‍💻 Sou Desenvolvedor Front-End
-🏙️ Moro em São Paulo (SP)
-📨 Você pode me contatar pelo meu [LinkedIn](https://www.linkedin.com/in/henrique-heron/)
+# Olá! ✨ Me chamo Henrique Heron
+## **Sobre mim**
 
-<h1>Tecnologias</h1>
+🧑🏻‍💻 Desenvolvedor Front-End, com curiosidade insaciável desde os 11 anos.
+
+🏙️ Moro em São Paulo (SP).
+
+📨 Você pode me contatar pelo meu [LinkedIn](https://www.linkedin.com/in/henrique-heron/).
+
+## **Tecnologias**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux)](https://skillicons.dev)
 <!--

@@ -2,7 +2,7 @@
 <h1>Sobre mim</h1>
 🧑🏻‍💻 Sou Desenvolvedor Front-End
 🏙️ Moro em São Paulo (SP)
-📨 Você pode me contatar pelo meu [LinkedIn]([url](https://www.linkedin.com/in/henrique-heron/))
+📨 Você pode me contatar pelo meu [LinkedIn](https://www.linkedin.com/in/henrique-heron/)
 
 <h1>Tecnologias</h1>
 

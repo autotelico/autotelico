@@ -3,6 +3,7 @@
 Sou Desenvolvedor Front-End, fã de games, e odeio vinagre
 
 Tecnologias:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <!--
 **autotelico/autotelico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

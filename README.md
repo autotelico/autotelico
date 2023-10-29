@@ -1,10 +1,12 @@
 ### Olá! ✨
+<h1>Sobre mim</h1>
+🧑🏻‍💻 Sou Desenvolvedor Front-End
+🏙️ Moro em São Paulo (SP)
+📨 Você pode me contatar pelo meu [LinkedIn]([url](https://www.linkedin.com/in/henrique-heron/))
 
-Sou Desenvolvedor Front-End, fã de games, e odeio vinagre
+<h1>Tecnologias</h1>
 
-Tecnologias:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux)](https://skillicons.dev)
 <!--
 **autotelico/autotelico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

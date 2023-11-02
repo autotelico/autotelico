@@ -1,4 +1,4 @@
-# E aí! 👋🏻
+# E aí! Eu sou Henrique Heron👋🏻
 ## **Sobre mim**
 
 🧑🏻‍💻 Desenvolvedor Front-End, com curiosidade insaciável desde os 11 anos.

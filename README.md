@@ -7,6 +7,9 @@
 
 📨 Você pode me contatar pelo meu [LinkedIn](https://www.linkedin.com/in/henrique-heron/).
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+
 ## **Tecnologias**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,linux)](https://skillicons.dev)

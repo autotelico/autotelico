@@ -9,7 +9,7 @@
 
 ## **Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,linux)](https://skillicons.dev)
 
 <div align="center">
   

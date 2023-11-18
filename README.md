@@ -3,9 +3,9 @@
 
 🧑🏻‍💻 Desenvolvedor Front-End
 
-🏙️ Moro em São Paulo (SP)
+🏙️ São Paulo (SP)
 
-📨 Você pode me contatar pelo meu LinkedIn ou pelo meu Discord: **autotelico**
+📨 Meu Discord: **autotelico**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-heron/)
 

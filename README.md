@@ -3,6 +3,8 @@
 
 🧑🏻‍💻 Desenvolvedor Front-End
 
+🤓 PCs são mó da hora!
+
 🏙️ São Paulo (SP)
 
 📨 Meu Discord: **autotelico**

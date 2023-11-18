@@ -1,11 +1,11 @@
 # E aí! Eu sou Henrique Heron👋🏻
 ## **Sobre mim**
 
-🧑🏻‍💻 Desenvolvedor Front-End, com curiosidade insaciável desde os 11 anos.
+🧑🏻‍💻 Desenvolvedor Front-End
 
-🏙️ Moro em São Paulo (SP).
+🏙️ Moro em São Paulo (SP)
 
-📨 Você pode me contatar pelo meu [LinkedIn](https://www.linkedin.com/in/henrique-heron/).
+📨 Você pode me contatar pelo meu LinkedIn ou pelo meu Discord: **autotelico**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-heron/)
 

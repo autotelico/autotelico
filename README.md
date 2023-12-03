@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 Desenvolvedor Front-End
 
-🤓 PCs são mó da hora!
+🤓 PCs são muito da hora
 
 🗺️ São Paulo (SP)
 

@@ -1,5 +1,4 @@
 # E aí! Eu sou Henrique Heron👋🏻
-## **Sobre mim**
 
 🧑🏻‍💻 Desenvolvedor Front-End
 

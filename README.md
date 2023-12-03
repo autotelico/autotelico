@@ -7,6 +7,8 @@
 
 🗺️ São Paulo (SP)
 
+🙏🏻 Me ensina alguma coisa nova? Faz um PR em algum dos meus projetos!
+
 📨 Meu Discord: **autotelico**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-heron/)

@@ -29,6 +29,15 @@
 
 </div>
 
+<details>
+<summary><h2>🛣️ A trajetória de Henrique Heron<h2></summary>
+<br>
+  Todo mundo já viveu aquele momento de "e se": e se eu tentasse fazer algo diferente? E se eu tiver deixando a oportunidade passar? E se eu me der bem?<br><br>
+  Foi assim que eu entrei no desenvolvimento web. Depois de 4 tentativas frustradas, eu resolvi tentar uma 5ª vez. E deu certo. Sempre gostei de ajudar os outros com computadores nos 3 empregos que eu já tive na vida, e todo mundo comentava <strong>sempre</strong> a mesma coisa: <em>Ah, você tem mó cara de quem gosta de PC! Por que você não faz informática?</em><br><br>
+  Falei: quer saber? Cês tão certos - eu gosto mesmo! E larguei minha formação de Gestor de Políticas Públicas na USP pra me dedicar ao que eu sempre gostei DEMAAAIS de fazer: brincar com navegadores!<br><br>
+  Eu só quero saber o máximo possível sobre como mexer nas coisas. Meu prazer com a web é exatamente esse. Não se trata de grana nem fama, é vontade de fazer coisas. No capricho! 👌🏻<br><br>
+  Se você vir algo nos meus projetos e quiser fazer PR pra me mostrar no que dá pra ficar melhor, fique à vontade! Comente o que quiser.
+</details>
 
 <!--
 **autotelico/autotelico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

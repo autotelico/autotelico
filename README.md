@@ -5,7 +5,7 @@
 
 🤓 PCs são mó da hora!
 
-🏙️ São Paulo (SP)
+🗺️ São Paulo (SP)
 
 📨 Meu Discord: **autotelico**
 

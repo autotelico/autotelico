@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-heron/)
 
-## **Tecnologias**
+## **🛠️ Tecnologias e Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,html,css,js,ts,git,jest,netlify,vscode,linux)](https://skillicons.dev)
 

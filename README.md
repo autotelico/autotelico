@@ -33,11 +33,15 @@
 <details>
 <summary><h2>🛣️ A trajetória de Henrique Heron<h2></summary>
 <br>
-  Todo mundo já viveu aquele momento de "e se": e se eu tentasse fazer algo diferente? E se eu tiver deixando a oportunidade passar? E se eu me der bem?<br><br>
-  Foi assim que eu entrei no desenvolvimento web. Depois de 4 tentativas frustradas, eu resolvi tentar uma 5ª vez. E deu certo. Sempre gostei de ajudar os outros com computadores nos 3 empregos que eu já tive na vida, e todo mundo comentava <strong>sempre</strong> a mesma coisa: <em>Ah, você tem mó cara de quem gosta de PC! Por que você não faz informática?</em><br><br>
-  Falei: quer saber? Cês tão certos - eu gosto mesmo! E larguei minha formação de Gestor de Políticas Públicas na USP pra me dedicar ao que eu sempre gostei DEMAAAIS de fazer: brincar com navegadores! Eu passo toda e qualquer brechinha de tempo do meu dia lendo sobre código ou escrevendo código. No momento em que eu tô escrevendo isso aqui, tô com 50 abas abertas no celular; destas, 41 são sobre código. Eu virei o meme do "passava 80% do meu tempo..."<br><br>
-  Eu só quero saber o máximo possível sobre como mexer nas coisas. Meu prazer com a web é exatamente esse. Não se trata de grana nem fama, eu só quero muito fazer coisas. No capricho! 👌🏻<br><br>
-  Se você vir algo nos meus projetos e quiser fazer PR pra me mostrar no que dá pra ficar melhor, fique à vontade! Comente o que quiser.
+Everyone has experienced those "what if" moments: what if I tried something different? What if I'm letting opportunities slip by? What if I succeed?
+
+That's how I got into web development. After four frustrating attempts, I decided to give it a fifth try. And it worked! I've always enjoyed helping others with computers in the three jobs I've had in my life, and everyone always said the same thing: "Oh, you look like someone who loves PCs! Why don't you go into IT?"
+
+I thought, you know what? You guys are right - I really do love it! I dropped my studies in Public Policy Management at USP to dedicate myself to what I've always loved to do the most: play with browsers! I spend every spare moment of my day reading about code or writing code. As I'm writing this, I have 50 tabs open on my phone; out of these, 41 are about code. I've become the meme of "spent 80% of my time..."
+
+I just want to know as much as possible about how to tweak things. My joy with the web is precisely that. It's not about money or fame; I just really want to create things. With finesse! 👌🏻
+
+If you come across anything in my projects and want to make a PR to show me how it can be improved, feel free! Comment whatever you like.
 </details>
 
 <!--

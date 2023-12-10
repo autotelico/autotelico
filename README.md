@@ -1,30 +1,30 @@
-# E aí! Eu sou Henrique Heron👋🏻
+# Hiya! I'm Henrique Heron👋🏻
 
-🧑🏻‍💻 Desenvolvedor Front-End
+🧑🏻‍💻 Front-End Developer
 
-🤓 PCs são muito da hora
+🤓 Big enthusiast of all things computer
 
-🗺️ São Paulo (SP)
+🗺️ São Paulo, Brazil
 
-🙏🏻 Me ensina alguma coisa nova? Faz um PR em algum dos meus projetos!
+🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
 
-📨 Meu Discord: **autotelico**
+📨 My Discord: **autotelico**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-heron/)
 
-## **🛠️ Tecnologias e Ferramentas**
+## **🛠️ Technologies and Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,html,css,js,ts,git,jest,linux,netlify,vscode)](https://skillicons.dev)
 
 <div align="center">
   
-## **Atividade**
+## **Activity**
   
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=autotelico&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=autotelico&locale=en)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=autotelico&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=autotelico&theme=default)
 

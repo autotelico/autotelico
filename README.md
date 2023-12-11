@@ -4,8 +4,6 @@
 
 🤓 Big enthusiast of all things computer
 
-🗺️ São Paulo, Brazil
-
 🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
 
 📨 My Discord: **autotelico**

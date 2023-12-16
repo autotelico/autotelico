@@ -2,7 +2,9 @@
 
 🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
 
-🤓 [Top 5%]([url](https://10fastfingers.com/user/3429090/)) fastest typer in the world
+⌨️ Among the Top 5% Fastest Typists Worldwide
+
+🤓 Extremely curious about all things computer
 
 🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
 

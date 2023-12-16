@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
 
-⌨️ Among the Top 5% Fastest Typists Worldwide
+⌨️ Top 5% Fastest Typists Worldwide
 
 🤓 Extremely curious about all things computer
 

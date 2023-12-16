@@ -1,8 +1,8 @@
 # Hiya! I'm Autotelico👋🏻
 
-🧑🏻‍💻 Front-End Developer
+🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
 
-🤓 Big enthusiast of all things computer
+🤓 [Top 5%]([url](https://10fastfingers.com/user/3429090/)) fastest typer in the world
 
 🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
 

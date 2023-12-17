@@ -4,7 +4,7 @@
 
 ⌨️ Top 5% Fastest Typists Worldwide
 
-🤓 Extremely curious about all things computer
+🤓 Learn, learn, learn!
 
 🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
 

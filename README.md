@@ -1,5 +1,7 @@
 # Hiya! I'm Autotelico👋🏻
 
+ <a href="https://www.linkedin.com/in/henrique-heron/">  ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
 🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
 
 ⌨️ Top 5% Fastest Typists Worldwide
@@ -7,8 +9,6 @@
 🤓 Learn, learn, learn!
 
 🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
-
-📨 My Discord: **autotelico**
 
 
 ## **🛠️ Technologies and Tools**

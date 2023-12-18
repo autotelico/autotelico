@@ -1,6 +1,8 @@
 # Hiya! I'm Autotelico👋🏻
 
- <a href="https://www.linkedin.com/in/henrique-heron/">  ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+ <a href="https://www.linkedin.com/in/henrique-heron/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+ <a href="https://discordapp.com/users/824112286233919520/">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+ <a href="mailto:henriqueheronhh@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
 

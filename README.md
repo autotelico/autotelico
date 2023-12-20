@@ -6,6 +6,8 @@
 
 🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
 
+📌 São Paulo, Brazil
+
 ⌨️ Top 5% Fastest Typists Worldwide
 
 🤓 Learn, learn, learn!

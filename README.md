@@ -8,7 +8,7 @@
 
 📌 São Paulo, Brazil
 
-⌨️ Top 5% Fastest Typists Worldwide
+⌨️ RegEx is fun~
 
 🤓 Learn, learn, learn!
 

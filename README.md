@@ -38,7 +38,7 @@
 <br>
 Everyone has experienced those "what if" moments: what if I tried something different? What if I'm letting opportunities slip by? What if I succeed?
 
-That's how I got into web development. After 4 frustrating attempts, I decided to give it a 5th try. And it worked! I've always enjoyed helping others with computers in all the 3 jobs I've had in my life, and everyone always said the same thing: "Oh, you look like someone who loves PCs! Why don't you go into IT?"
+That's how I got into web development. After 4 frustrating attempts, I decided to give it a 5th try. And it worked! I've always enjoyed helping others with computers in all of the 3 jobs I've had in my life, and everyone always said the same thing: "Oh, you look like someone who loves PCs! Why don't you go into IT?"
 
 I thought, you know what? You guys are right - I really do love 'em! While still working in my earlier area of expertise, I chose now to dedicate myself to what I've always loved to do the most: playing with browsers! I spend every spare moment of my day reading about code or writing code.
 

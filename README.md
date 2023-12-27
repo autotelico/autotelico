@@ -1,4 +1,4 @@
-# Hiya! I'm Autotelico👋🏻
+# Hiya! I'm Henrique👋🏻
 
  <a href="https://www.linkedin.com/in/henrique-heron/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a href="https://discordapp.com/users/824112286233919520/">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
@@ -34,7 +34,7 @@
 </div>
 
 <details>
-<summary><h2>🛣️ A Little Background on Autotelico<h2></summary>
+<summary><h2>🛣️ A Little Background on Henrique<h2></summary>
 <br>
 Everyone has experienced those "what if" moments: what if I tried something different? What if I'm letting opportunities slip by? What if I succeed?
 

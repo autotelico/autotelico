@@ -4,7 +4,7 @@
  <a href="https://discordapp.com/users/824112286233919520/">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
  <a href="mailto:henriqueheronhh@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-🧑🏻‍💻 Front-End Developer who can't keep his hands AFK
+🧑🏻‍💻 Under-construction Full Stack Developer who can't keep his hands AFK
 
 📌 São Paulo, Brazil
 

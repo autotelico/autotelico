@@ -8,7 +8,7 @@
 
 📌 São Paulo, Brazil
 
-⌨️ RegEx enjoyer
+⌨️ Obsessed with coding
 
 🤓 Learn, learn, learn!
 

@@ -8,7 +8,7 @@
 
 📌 São Paulo, Brazil
 
-⌨️ Obsessed with coding
+⌨️ OBSESSED with coding.
 
 🤓 Learn, learn, learn!
 

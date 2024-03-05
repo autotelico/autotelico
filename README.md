@@ -34,7 +34,7 @@
 </div>
 
 <details>
-<summary><h2>🛣️ A Little Background on Henrique<h2></summary>
+<summary><h2>A Little Background on Henrique</h2></summary>
 <br>
 Everyone has experienced those "what if" moments: what if I tried something different? What if I'm letting opportunities slip by? What if I succeed?
 

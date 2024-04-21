@@ -17,7 +17,7 @@
 
 ## **🛠️ Technologies and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,mongo,express,mysql,sass,bootstrap,webpack,html,css,js,ts,py,php,git,github,jest,linux,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,mongo,express,mysql,sass,bootstrap,webpack,html,css,js,ts,py,php,git,github,jest,linux,netlify,vscode)](https://skillicons.dev)
 
 <div align="center">
   

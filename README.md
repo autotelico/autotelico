@@ -12,8 +12,6 @@
 
 🤓 Learn, learn, learn!
 
-🙏🏻 Could you teach me something new? Kindly make a PR in one of my projects!
-
 
 ## **🛠️ Technologies and Tools**
 

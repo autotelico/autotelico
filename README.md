@@ -14,7 +14,7 @@
 
 ## **🛠️ Technologies and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,angular,nodejs,mongo,postgresql,express,tailwind,sass,bootstrap,html,css,js,ts,py,java,git,github,jest,webpack,linux,bash,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,tailwind,react,ts,nodejs,express,mongo,spring,java,postgresql,git,linux,bash,gcp)](https://skillicons.dev)
 
 <div align="center">
   

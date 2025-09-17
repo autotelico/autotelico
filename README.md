@@ -9,8 +9,6 @@
 
 ⌨️ OBSESSED with coding and logic.
 
-🤓 Learn, learn, learn!
-
 
 ## **🛠️ Technologies and Tools**
 

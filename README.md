@@ -5,8 +5,6 @@
 
 🧑🏻‍💻 Full Stack Developer who can't keep his hands AFK. Works with the MERN stack.
 
-📌 São Paulo, Brazil
-
 ⌨️ OBSESSED with coding and logic.
 
 
